@@ -1,0 +1,27 @@
+{
+  "name": "sms",
+  "version": "0.0.1",
+  "description": "A student management system project for web technology practical",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "13,14,15,16,17,18",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "bootstrap": "^5.2.3",
+    "ejs": "^3.1.8",
+    "express": "^4.16.4",
+    "fs": "0.0.1-security",
+    "joi": "^14.3.1",
+    "morgan": "^1.9.1",
+    "sqlite3": "^5.1.4",
+    "swagger-jsdoc": "^3.2.9",
+    "swagger-ui-express": "^4.0.2"
+  },
+  "devDependencies": {
+    "electron-rebuild": "^3.2.9",
+    "nodemon": "^2.0.20"
+  }
+}
